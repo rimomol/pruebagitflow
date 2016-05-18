@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>prueba</groupId>
 	<artifactId>prueba</artifactId>
-	<version>0.0.0-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 
 	<name>prueba</name>
 	<url>http://maven.apache.org</url>
